@@ -1,0 +1,71 @@
+[
+    {
+        "nome" : "GTA - Gran Theft Auto",
+        "fabricante" : "Rockstar",
+        "ano" : 2013
+    },
+
+    {
+        "nome" : "Fifa 21",
+        "fabricante" : "EA Sports",
+        "ano" : 2021
+    },
+
+    {
+        "nome" : "Far Cry 5",
+        "fabricante" : "Ubisoft",
+        "ano" : 2018
+    },
+
+    {
+        "nome" : "Call of Duty",
+        "fabricante" : "Infinity Ward",
+        "ano" : 2019
+    },
+
+    {
+        "nome" : "Assassins Creed",
+        "fabricante" : "Ubisoft",
+        "ano" : 202007
+    },
+
+    {
+        "nome" : "Fortnite",
+        "fabricante" : "Epic Games",
+        "ano" : 2017
+    },
+
+    {
+        "nome" : "Minicraft",
+        "fabricante" : "Mojang Studios",
+        "ano" : 2011
+    },
+
+    {
+        "nome" : "Need for Speedy",
+        "fabricante" : "EA Gothenburg",
+        "ano" : 2015
+    },
+
+    {
+        "nome" : "Forza Horizon 4",
+        "fabricante" : "Playground Games",
+        "ano" : 2018
+    },
+
+    {
+        "nome" : "NBA 2020",
+        "fabricante" : "Visual Concept",
+        "ano" : 2019
+    }
+
+
+
+
+
+
+
+
+
+
+]
